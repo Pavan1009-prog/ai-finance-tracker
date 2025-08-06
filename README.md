@@ -23,15 +23,6 @@
 - **Responsive Design**: Works on desktop, tablet, and mobile
 - **Keyboard Shortcuts**: Quick navigation and actions
 
-## 🚀 Quick Start
-
-1. **Visit the live demo** using the link above
-2. Click **"Load Demo Data"** to see the app in action
-3. Explore all features:
-   - Add transactions with AI categorization
-   - Set budgets and track spending
-   - View AI insights and predictions
-   - Analyze spending patterns with charts
 
 ## 💻 Technologies Used
 
