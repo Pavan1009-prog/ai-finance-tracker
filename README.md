@@ -6,11 +6,6 @@ A comprehensive personal finance management system with AI-powered features, mac
 ![Version](https://img.shields.io/badge/version-1.0.0-green.svg)
 ![Demo](https://img.shields.io/badge/demo-live-brightgreen.svg)
 
-## 🌟 Live Demo
-
-[**View Live Demo →**](https://yourusername.github.io/ai-finance-tracker/)
-
-## ✨ Features
 
 ### 🧠 AI-Powered Intelligence
 - **Smart Categorization**: Automatically categorizes transactions using NLP
@@ -112,11 +107,6 @@ Contributions are welcome! Feel free to:
 - Suggest new features
 - Submit pull requests
 
-## 👨‍💻 Author
-
-[Your Name](https://github.com/yourusername)
-
-## 🌟 Show Your Support
 
 Give a ⭐️ if you like this project!
 
