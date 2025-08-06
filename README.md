@@ -1,12 +1,3 @@
-# 🤖 AI Personal Finance Tracker
-
-A comprehensive personal finance management system with AI-powered features, machine learning predictions, and interactive visualizations.
-
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Version](https://img.shields.io/badge/version-1.0.0-green.svg)
-![Demo](https://img.shields.io/badge/demo-live-brightgreen.svg)
-
-
 ### 🧠 AI-Powered Intelligence
 - **Smart Categorization**: Automatically categorizes transactions using NLP
 - **Spending Predictions**: ML models predict future expenses based on historical data
